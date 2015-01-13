@@ -1,0 +1,25 @@
+{
+  "name": "AsteriskQueueLogger",
+  "version": "1.0.0",
+  "description": "Asterisk queue_log parser to mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ivahaev",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ivahaev/asterisk-queue-mongo.git"
+  },
+  "keywords": [
+    "asterisk",
+    "queue",
+    "queue_log",
+    "mongodb"
+  ],
+  "bugs": {
+    "url": "https://github.com/ivahaev/asterisk-queue-mongo/issues"
+  },
+  "homepage": "https://github.com/ivahaev/asterisk-queue-mongo"
+}
