@@ -1,0 +1,1 @@
+Simple implementation of asterisk queue_log parser with saving into mongodb collection

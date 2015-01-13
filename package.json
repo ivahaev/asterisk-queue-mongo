@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/ivahaev/asterisk-queue-mongo/issues"
   },
-  "homepage": "https://github.com/ivahaev/asterisk-queue-mongo"
+  "homepage": "https://github.com/ivahaev/asterisk-queue-mongo",
+  "dependencies": {
+    "mongoose": "^3.8.21"
+  }
 }
